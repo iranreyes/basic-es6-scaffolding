@@ -1,7 +1,7 @@
 {
-  "name": "second-test",
+  "name": "basic-es6-scaffolding",
   "version": "0.0.1",
-  "description": "",
+  "description": "A basic es2015(Ecmascript 6) scaffolding with browserify and gulp. This scaffolding has a yeoman generator: https://github.com/iranreyes/generator-ecma-six",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

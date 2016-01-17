@@ -1,7 +1,6 @@
 ## Basic ES6 Scaffolding
 
-
-A basic es2015(Ecmascript 5) scaffolding with browserify and gulp. This will be included in a basic yeoman generator.
+A basic es2015(Ecmascript 6) scaffolding with browserify and gulp. This scaffolding has a yeoman generator: https://github.com/iranreyes/generator-ecma-six
 
 ### Initial setup
 
